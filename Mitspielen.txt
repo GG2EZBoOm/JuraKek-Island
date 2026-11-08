@@ -1,0 +1,36 @@
+JuraKek Park - Client fuer Mitspieler
+=====================================
+
+Voraussetzungen: Windows 10 oder 11 (64 Bit) und eine Grafikkarte mit DirectX 12.
+Sonst muss nichts installiert werden.
+
+Starten
+-------
+1. Den Ordner "JuraKekPark" irgendwohin entpacken, wo du schreiben darfst
+   (zum Beispiel Desktop oder Dokumente, nicht "C:\Programme").
+2. JuraKekPark.exe starten. Warnt Windows SmartScreen ("Der Computer wurde durch Windows geschuetzt"),
+   klicke auf "Weitere Informationen" und dann auf "Trotzdem ausfuehren". Die EXE ist nicht signiert.
+3. Beim ersten Start erzeugt das Spiel seine 3D-Modelle selbst. Das dauert ein paar Minuten,
+   die Modelle erscheinen nach und nach. Danach startet es schnell.
+
+Einem Park beitreten
+--------------------
+1. Hauptmenue > Mehrspieler > Reiter "Beitreten".
+2. Spielernamen eintragen, den Einladungscode des Gastgebers (JKP-...) einfuegen, "Beitreten" klicken.
+   Der Park wird dann uebertragen.
+   Mit Discord geht es auch direkt ueber "Beitreten" im Discord-Profil des Gastgebers.
+
+Selbst einen Park hosten
+------------------------
+1. Hauptmenue > Mehrspieler > Reiter "Park oeffnen" > "Neuen Park oeffnen".
+   Einen gespeicherten Park laedst du erst und oeffnest ihn dann im Pausemenue (Esc) unter "Mehrspieler".
+2. Fragt die Windows-Firewall nach, den Zugriff erlauben.
+3. "Einladung kopieren" und den Code an deine Freunde schicken.
+   Das Spiel versucht die Portfreigabe am Router automatisch (UPnP, Port 27650).
+   Klappt das nicht, hilft IPv6 oder ein Relay-Server (steht im Fenster "Park oeffnen").
+
+Wichtig
+-------
+- Alle Spieler brauchen dieselbe Version. Das Spiel aktualisiert sich dafuer vor dem Hauptmenue selbst.
+  Ohne Internet oder mit --no-update startet es einfach mit der vorhandenen Version.
+- Spielstaende liegen unter "Gespeicherte Spiele\JuraKek Park" in deinem Benutzerordner.
