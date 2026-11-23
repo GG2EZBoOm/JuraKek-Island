@@ -1,16 +1,16 @@
-JuraKek Park - Client fuer Mitspieler
-=====================================
+Urzeitpark - Dino Creation - Client fuer Mitspieler
+===================================================
 
 Voraussetzungen: Windows 10 oder 11 (64 Bit) und eine Grafikkarte mit DirectX 12.
 Sonst muss nichts installiert werden.
 
 Starten
 -------
-1. Den Ordner "JuraKekPark" irgendwohin entpacken, wo du schreiben darfst
+1. Den Ordner "Urzeitpark" irgendwohin entpacken, wo du schreiben darfst
    (zum Beispiel Desktop oder Dokumente, nicht "C:\Programme").
-2. JuraKekPark.exe starten. Warnt Windows SmartScreen ("Der Computer wurde durch Windows geschuetzt"),
+2. Urzeitpark.exe starten. Warnt Windows SmartScreen ("Der Computer wurde durch Windows geschuetzt"),
    klicke auf "Weitere Informationen" und dann auf "Trotzdem ausfuehren". Die EXE ist nicht signiert.
-   Mit JuraKekPark-Vulkan.exe startet das Spiel stattdessen mit Vulkan (zum Beispiel, wenn es mit DirectX 12
+   Mit Urzeitpark-Vulkan.exe startet das Spiel stattdessen mit Vulkan (zum Beispiel, wenn es mit DirectX 12
    abstuerzt). Dauerhaft umstellen geht auch im Spiel unter Einstellungen > Anzeige > Grafikschnittstelle.
 3. Beim ersten Start erzeugt das Spiel seine 3D-Modelle selbst. Das dauert ein paar Minuten,
    die Modelle erscheinen nach und nach. Danach startet es schnell.
@@ -35,4 +35,6 @@ Wichtig
 -------
 - Alle Spieler brauchen dieselbe Version. Das Spiel aktualisiert sich dafuer vor dem Hauptmenue selbst.
   Ohne Internet oder mit --no-update startet es einfach mit der vorhandenen Version.
-- Spielstaende liegen unter "Gespeicherte Spiele\JuraKek Park" in deinem Benutzerordner.
+- Spielstaende liegen unter "Gespeicherte Spiele\Urzeitpark" in deinem Benutzerordner
+  (ein Ordner "JuraKek Park" aus frueheren Versionen wird beim ersten Start uebernommen).
+- JuraKekPark.exe und JuraKekPark-Vulkan.exe sind nur noch kleine Starter fuer alte Verknuepfungen.
