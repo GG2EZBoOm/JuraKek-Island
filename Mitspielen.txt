@@ -34,8 +34,9 @@ Selbst einen Park hosten
 Mehrspieler-Kampagne
 --------------------
 Hauptmenue > "Mehrspieler-Kampagne": eine gemeinsame Welt in Echtzeit (ein Spieltag = ein echter Tag).
-1. Reiter "Konto": die Adresse des Kampagnen-Servers eintragen (bekommst du von dem, der ihn betreibt) und "Verbinden".
+1. Beim Oeffnen verbindet sich das Spiel mit dem offiziellen Kampagnen-Server (169.58.227.46:27770, fest eingetragen).
    Ein Konto brauchst du nicht; die Datei mpkampagne.txt im Spielstandordner ist dein Schluessel - nicht loeschen.
+   Unter "Konto" kannst du den Kontocode kopieren, um auf einem anderen Rechner weiterzuspielen.
 2. Reiter "Karte": "Neuen Park gruenden" und auf einen Ort der Weltkarte klicken.
 3. Reiter "Freunde": Freundescodes (JKF-...) austauschen. Dann koennt ihr eure Parks besuchen, Dinos und Eier
    versteigern und Parks gemeinsam fuehren.
