@@ -31,6 +31,15 @@ Selbst einen Park hosten
    Das Spiel versucht die Portfreigabe am Router automatisch (UPnP, Port 27650).
    Klappt das nicht, hilft IPv6 oder ein Relay-Server (steht im Fenster "Park oeffnen").
 
+Mehrspieler-Kampagne
+--------------------
+Hauptmenue > "Mehrspieler-Kampagne": eine gemeinsame Welt in Echtzeit (ein Spieltag = ein echter Tag).
+1. Reiter "Konto": die Adresse des Kampagnen-Servers eintragen (bekommst du von dem, der ihn betreibt) und "Verbinden".
+   Ein Konto brauchst du nicht; die Datei mpkampagne.txt im Spielstandordner ist dein Schluessel - nicht loeschen.
+2. Reiter "Karte": "Neuen Park gruenden" und auf einen Ort der Weltkarte klicken.
+3. Reiter "Freunde": Freundescodes (JKF-...) austauschen. Dann koennt ihr eure Parks besuchen, Dinos und Eier
+   versteigern und Parks gemeinsam fuehren.
+
 Wichtig
 -------
 - Alle Spieler brauchen dieselbe Version. Das Spiel aktualisiert sich dafuer vor dem Hauptmenue selbst.
